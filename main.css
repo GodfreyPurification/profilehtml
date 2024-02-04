@@ -1,0 +1,338 @@
+nav {
+  position: sticky;
+  display: inline-block;
+  background-color: aqua;
+  color:rgb(12, 11, 11);
+  width: 100%;
+  height: auto;
+  border-radius: auto;
+  display: run-in;
+  font-size: 1em;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  padding: auto;
+  text-decoration: none;
+  list-style-type: none;
+  z-index: 2;        
+ 
+}
+/* nav{
+  position: sticky;
+  display: inline-block;
+  background-color: aqua;
+  color:rgb(12, 11, 11);
+  width: 100%;
+  height: auto;
+  border-radius: auto;
+  display: run-in;
+  font-size:1em;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  padding: auto;
+  text-decoration: none;
+  list-style-type: none;
+  z-index: 2;
+} */
+h1 ul #uy{
+  list-style-type:none;
+  block-size: auto;
+}
+fieldset {
+  display: block;
+  margin-inline-start: 2px;
+  margin-inline-end: 2px;
+  padding-block-start: 0.35em;
+  padding-inline-start: 0.75em;
+  padding-inline-end: 0.75em;
+  padding-block-end: 0.625em;
+  min-inline-size: min-content;
+  border-width: 2px;
+  border-style: groove;
+  border-color: rgb(192, 192, 192);
+  border-image: initial;
+  text-align: center;
+}
+html {
+  font-size: 22px
+}
+#ps {
+  font-size: 15px;
+}
+#button {
+  align-items: center;
+}
+.xyz{
+    text-align: justify;
+    width: 15%;
+    padding-right: 0%;
+    display:inline-table;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: right;
+}
+#car {
+  text-align: center;
+}
+.xy{
+  text-align: justify;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 0% 1% 0% 0%;
+  font-size: medium;
+  font-size: medium;
+  /* padding-right: 0%; */
+  text-align: right;
+  display:inline-table;
+  width: 5%;
+}
+
+.contact{
+  text-align: center;
+  font-size:xx-large
+}
+
+nav ul li{
+  list-style-type:armenian;
+  font-size: small;
+  display: inline;
+  /* background-origin: padding-box; */
+  background-origin: padding-box;
+  /* padding: none; */
+  /* background-color: whitesmoke transparent; */
+}
+nav ul{
+  display: inline;
+  list-style: none;
+  /* padding: auto; */
+  background-origin: border-box;
+}
+image { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
+.avatar {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  padding: -1px,0px,3px,0px;
+  border-radius: 100%;
+  }   
+  .title {
+    text-align: center;
+    font-size: 50%;
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    color: rgba(255, 255, 255, 0.829);
+    }
+#workingexperience {
+  text-align: center;
+
+  color: rgb(7, 7, 7);
+  background-repeat:no-repeat;
+  background-size: 400px 390px;
+  background-position: 100% 2%;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+/* ol {
+  list-style-type: decimal;
+}
+  /* font-size: 50%;
+  font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+  color: rgba(255, 255, 255, 0.829);
+  } */ */ */
+
+#social{
+  text-align: center;
+  padding-left: 0%;
+  align-items: center;
+}
+#hello1{
+  text-align: center;
+  padding: -5px;
+  background-position-x:center;
+}
+nav a{
+  background-attachment: fixed;
+  font-size: x-large;
+  text-decoration: none;
+  color: rgba(15, 1, 1, 0.822);
+  padding: 1px 1px 1px 1px;
+  padding: 1% 2% 1% 2%;
+  padding: auto;
+  display: inline-block;
+  align-content: center;
+  align-content: center;
+  transition: 800ms ease-in;
+}
+div.container {
+  text-align: center;
+}
+ol.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
+nav a:hover{
+  color: aquamarine;
+  transition: 800ms ease-in;
+  background-color:black;
+}
+nav li{
+  font-size: xx-large;
+  display: inline;  
+  padding: auto;
+  background-origin: padding-box;
+  background-color: whitesmoke transparent;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    text-align: center;
+}
+.menu a:hover, a:active  {
+  color: rgb(187, 255, 0);
+  background-color: rgb(0, 0, 0);
+}
+
+#xy{
+  background-image: url("/nav/images/ocean.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#pictures {
+  filter: grayscale(100%);
+  transition: 800ms ease-in;
+  /* opacity: 0.5; */
+}
+#pictures:hover{
+  filter: grayscale(0%);
+  transition: 800ms ease-in;
+}
+.card{
+  float:left;
+  background-color: rgb(255, 255, 255);
+  margin: 1rem;
+  padding: 0% 2% 0% 0%; 
+  width: 25%;
+  float: none;
+  display: inline-table;
+  color: #000000;
+  box-shadow: 0px 3px 3px #161616 ;
+  transition: 300ms ease-in-out;
+
+}
+
+.card:hover{
+  box-shadow: 0px 6px 26px #000000 ;
+  /* background-color: rgb(0, 0, 0); */
+}
+
+h3{
+  display: inline;
+}
+.center {
+  margin-left: auto; 
+  margin-right: auto;
+  color: black;
+  text-emphasis-color: black;
+}
+#skills{
+  text-align: center;
+  padding: 0% 0% 0% 0%;
+  margin: 0% 0% 0% 0%;
+}
+#album {
+  text-align: center;
+}
+#edu {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  font-size: 50%;
+  font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+  color: rgba(255, 255, 255, 0.829);
+  }
+
+.row{
+  padding: 0% 10% 0% 10%;
+
+}
+.row::after{
+  content: "";
+  clear:both;
+  display: table;
+  
+}
+#PUB12 {
+  text-align: center;
+}
+#str {
+  text-align: center;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+}
+
+footer a{
+  text-decoration: none;
+  color: aliceblue;
+}
+.flex-publications {
+  display: flex;
+  background-color: rgb(212, 219, 228);
+  justify-content:center;
+  flex-wrap: wrap;
+  font-size: 22px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-display: center;
+  
+}
+
+.flex-publications > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  /* width:100%; */
+  flex-wrap: wrap;
+  font-size: 22px;
+  
+}
+#contactme {
+  text-align: center;
+}
+textarea{
+  width: 60%;
+  font-size: 18px;
+}
+
+button{
+  font-size: 18px;
+}
+#button1 {
+  text-align: center;
+
+}
+
+input, select{
+  font-size: 18px;
+}
+
+option{
+  text-align: center;
+}
